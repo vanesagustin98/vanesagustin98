@@ -1,4 +1,6 @@
-<div align="center">¡Hola! Soy Vanessa Gustin, Cat-Lover y Full Stack Developer de Colombia, actualmente, estoy persiguiendo mi título en Ingeniería de Sistemas, lo que me permite combinar mi amor por la programación con una comprensión sólida de los sistemas informáticos. Siempre en busca de nuevos desafíos y oportunidades de colaboración.</div>  
+<div align="center">¡Hola! Soy Vanessa Gustin, Cat-Lover y Full Stack Developer de Colombia. Actualmente, estoy persiguiendo mi título en Ingeniería de Sistemas para lo cual me falta un año, lo que me permite combinar mi amor por la programación con una comprensión sólida de los sistemas informáticos. Siempre estoy en busca de nuevos desafíos y oportunidades de colaboración en el mundo de la tecnología, y creo en el aprendizaje continuo y el trabajo en equipo.
+
+Como desarrolladora disfruto de la resolución de problemas y de crear soluciones innovadoras que mejoren la experiencia del usuario. Además, en mi tiempo libre, me sumerjo tanto en el aprendizaje de nuevas tecnologías como en hobbies relacionados con el mundo tecnológico. Estoy emocionada por las oportunidades que el futuro me depara y estoy comprometida en seguir creciendo en este campo.</div>  
   
 
 <div align="center">
